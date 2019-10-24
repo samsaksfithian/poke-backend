@@ -8,6 +8,14 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsaksfithian/poke-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/samsaksfithian/poke-backend/issues"
+  },
+  "homepage": "https://github.com/samsaksfithian/poke-backend#readme",
   "author": "Sam Saks-Fithian",
   "license": "ISC",
   "dependencies": {
